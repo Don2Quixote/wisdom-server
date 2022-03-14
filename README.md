@@ -12,7 +12,7 @@
 ## ENV Configuration:
 | name                        | type   | description                                                |
 | --------------------------- | ------ | ---------------------------------------------------------- |
-| PORT                        | int    | Port to laynch TCP server                                  |
+| PORT                        | int    | Port to launch TCP server                                  |
 | COMPLEXITY_FACTOR           | float  | Shows how fast does complexity grow                        |
 | MAX_COMPLEXITY              | int    | Limits the maximum complexity (length of challange number) |
 | COMPLEXITY_DURATION_SECONDS | int    | Time to recover complextity level                          |
