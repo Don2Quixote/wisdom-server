@@ -1,0 +1,3 @@
+echo "Anyway I haven't written tests..."
+echo
+go test -race -cover -trimpath ./... 
